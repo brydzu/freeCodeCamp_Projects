@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://image.ibb.co/fdzeqv/wov.png");
+}
+h1 {
+  font-family: 'Bungee Outline', cursive;
+  font-size: 100px;
+}
+p {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+.content {
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  background-color: #8D94BA;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 20px;
+  width: 33%;
+}
+
+.quote {
+  font-family: Times New Roman;
+  font-size: 25px;
+}
+
+.author {
+  font-style: italic;
+  font-size: 15px;
+}
