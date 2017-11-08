@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body {
+  background: #E6DADA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #274046, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+  font-family: 'Poiret One', cursive;
+  color: white;
+  padding: 20px;
+  font-size: 70px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Poiret One', cursive;
+  color: white;
+  padding: 20px;
+}
+
+h4 {
+  display: inline;  
+}
