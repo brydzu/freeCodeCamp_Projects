@@ -1,0 +1,28 @@
+a {
+  color: inherit;
+}
+body {
+  background: #bdc3c7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+button {
+  margin: 1%;
+}
+div {
+  border-radius:2px;
+}
+div img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-family: 'Cinzel', serif;
+  padding-top: 20px;
+}
+#output {
+  margin: 1%;
+}
