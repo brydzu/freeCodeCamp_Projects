@@ -1,0 +1,37 @@
+body {
+  background: #4B79A1;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.col-md-4 {
+  padding: 5px;
+}
+.container {
+  padding-top: 20px;
+}
+#header {
+  background: rgba(0,0,0,.2);
+  border: 5px solid;
+  border-radius: 15px;
+  font-family: 'VT323', monospace;
+  padding: 20px;
+}
+h1 {
+  font-size: 130px;
+}
+h2 {
+  font-size: 40px;
+}
+img {
+  width: 100px;
+  border-radius: 50%;
+}
+.row {
+  background: rgba(0,0,0,.2);
+  border: 5px solid;
+  border-radius: 15px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  margin: 20px;
+  padding: 20px;
+}
